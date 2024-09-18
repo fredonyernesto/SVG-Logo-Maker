@@ -27,4 +27,4 @@ If you have any questions, suggestions, or need further information, you can rea
 Check out the repository for this project [here](https://github.com/fredonyernesto/svg-logo-maker).
 
 ## Walkthrough Video
-A walkthrough video demonstrating the functionality of the SVG logo maker, including passing tests and showing the generated SVG file, can be viewed [here](https://link-to-your-video).
+A walkthrough video demonstrating the functionality of the SVG logo maker, including passing tests and showing the generated SVG file, can be viewed [here](https://watch.screencastify.com/v/JUCHElptyuLtxV0B7fGc).
